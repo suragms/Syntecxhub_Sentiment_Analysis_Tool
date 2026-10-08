@@ -1,0 +1,91 @@
+text,sentiment
+"I really love this product, it works amazingly well!",positive
+"This was a terrible experience, totally disappointed.",negative
+"The product is okay, nothing special but works.",neutral
+"I am very happy with the service provided by the team.",positive
+"I hate this application, it crashes all the time!",negative
+"It works as expected and arrived on time.",neutral
+"Absolutely fantastic quality, highly recommended to everyone!",positive
+"Worst purchase I have ever made, complete waste of money.",negative
+"The package was delivered yesterday afternoon.",neutral
+"Great customer support, they solved my issue quickly.",positive
+"Extremely poor performance and very unreliable.",negative
+"The item matches the description given on the website.",neutral
+"I am super impressed with the fast delivery and build quality.",positive
+"Horrible quality, broke after just one day of use.",negative
+"The color of the product is blue.",neutral
+"Exceptional value for money, will definitely buy again!",positive
+"A total disaster, very bad experience overall.",negative
+"It is a standard model with basic features.",neutral
+"This tool saved me so much time, brilliant software!",positive
+"Very frustrating user interface and difficult to navigate.",negative
+"The store opens at nine in the morning.",neutral
+"Loved everything about this product, five stars!",positive
+"Defective item received, customer service refused to refund.",negative
+"The box contains the item and user manual.",neutral
+"Smooth performance and user-friendly design.",positive
+"Completely useless product, do not buy this.",negative
+"The dimensions are ten inches by five inches.",neutral
+"Outstanding service, staff was extremely helpful and kind.",positive
+"Very unhappy with the quality, feels cheap and fragile.",negative
+"The battery lasted for about six hours.",neutral
+"Wonderful experience, exceeded my expectations!",positive
+"Constant bugs and error messages make it unusable.",negative
+"The laptop came with Windows pre-installed.",neutral
+"Best sentiment analysis tool I have used so far!",positive
+"Overpriced garbage, not worth even half the price.",negative
+"The temperature outside is twenty degrees.",neutral
+"Highly effective and easy to set up, love it!",positive
+"Terrible communication from the seller, very slow response.",negative
+"The manual explains the basic setup process.",neutral
+"Super happy with this purchase, arrived in perfect condition.",positive
+"Regret buying this, zero value for money.",negative
+"The meeting is scheduled for next Tuesday.",neutral
+"Excellent application with great UI and features!",positive
+"Extremely annoying ads and slow loading times.",negative
+"The train leaves at five thirty in the evening.",neutral
+"I am thrilled with how well this performs!",positive
+"Appalling quality and terrible packaging.",negative
+"The restaurant is located near the central station.",neutral
+"Top-notch performance, definitely worth every penny!",positive
+"The app keeps freezing and deleting my data.",negative
+"The report was published earlier today.",neutral
+"Very pleased with the fast response from customer support.",positive
+"Bad product design and poor execution.",negative
+"The warranty period is valid for one year.",neutral
+"I am delighted with the results of this machine learning tool.",positive
+"Completely dissatisfied with the service level.",negative
+"The software update was released last week.",neutral
+"Superb customer experience, very satisfied customer here!",positive
+"Broken promises and awful customer service.",negative
+"The price remains unchanged from last month.",neutral
+"Really great product, exceeds all expectations!",positive
+"Terrible build quality, failed on first attempt.",negative
+"The shipment contains three separate boxes.",neutral
+"Impressive results and fast execution time!",positive
+"I am very annoyed with the constant delays.",negative
+"The device requires two AA batteries to operate.",neutral
+"Awesome tool, works like a charm every time!",positive
+"Unacceptable quality control, item arrived damaged.",negative
+"The customer service hotline is available weekdays.",neutral
+"I am thoroughly impressed by the software quality!",positive
+"Frustrating experience, nothing works as advertised.",negative
+"The email was sent to all registered participants.",neutral
+"Fantastic customer support team, very helpful!",positive
+"Disappointing experience, would not recommend to anyone.",negative
+"The hotel is five kilometers from the airport.",neutral
+"Super smooth application, very intuitive layout.",positive
+"Awful user experience, full of glitches.",negative
+"The event starts at eight in the evening.",neutral
+"I love how fast and responsive this tool is!",positive
+"Extremely slow and prone to errors.",negative
+"The document is available in PDF format.",neutral
+"High quality materials used, very durable product!",positive
+"Very disappointed with the slow shipment and bad support.",negative
+"The flight duration is three hours.",neutral
+"Wonderful service, I am a very satisfied customer!",positive
+"Totally useless and complete waste of time.",negative
+"The office is closed on Sundays.",neutral
+"Brilliant software design, handles everything smoothly!",positive
+"Poor customer response and terrible product quality.",negative
+"The car has driven fifty thousand kilometers.",neutral

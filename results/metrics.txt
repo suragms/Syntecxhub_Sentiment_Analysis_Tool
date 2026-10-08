@@ -1,0 +1,43 @@
+==================================================
+       SYNTECXHUB AI INTERNSHIP PROJECT 2
+        SENTIMENT ANALYSIS MODEL METRICS
+==================================================
+Author: Surag M S
+
+========================================
+MODEL COMPARISON
+========================================
+Model                     Accuracy     F1 Score    
+-------------------------------------------------
+Logistic Regression       0.8333       0.8308      
+Multinomial Naive Bayes   0.5000       0.4133      
+
+========================================
+SELECTED BEST MODEL METRICS
+========================================
+Accuracy : 0.8333
+Precision: 0.8571
+Recall   : 0.8333
+F1 Score : 0.8308
+
+========================================
+CLASSIFICATION REPORT
+========================================
+              precision    recall  f1-score   support
+
+    negative     1.0000    0.6667    0.8000         6
+     neutral     0.8571    1.0000    0.9231         6
+    positive     0.7143    0.8333    0.7692         6
+
+    accuracy                         0.8333        18
+   macro avg     0.8571    0.8333    0.8308        18
+weighted avg     0.8571    0.8333    0.8308        18
+
+
+========================================
+CONFUSION MATRIX
+========================================
+Labels: ['negative', 'neutral', 'positive']
+[[4 0 2]
+ [0 6 0]
+ [0 1 5]]

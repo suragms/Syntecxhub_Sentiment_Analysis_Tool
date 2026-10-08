@@ -1,0 +1,34 @@
+# Python compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# NOTE: models/, results/, and data/ are intentionally NOT ignored
+# as required for internship project submission and verification.

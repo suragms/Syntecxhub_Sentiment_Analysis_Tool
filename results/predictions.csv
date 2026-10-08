@@ -1,0 +1,11 @@
+text,predicted_sentiment,confidence
+"I love this product, it works perfectly!",Positive,0.4528
+This service is terrible and customer support is useless.,Positive,0.4431
+The package arrived on time and the product is okay.,Neutral,0.4711
+Fantastic application with super fast performance!,Positive,0.5074
+"Worst purchase ever made, I regret buying this.",Negative,0.4705
+The application updated to version two today.,Neutral,0.3627
+I am very happy with the quick response from staff.,Positive,0.3896
+The app freezes continuously and loses my data.,Negative,0.4061
+It performs standard tasks as described.,Positive,0.3654
+Outstanding quality and brilliant design!,Positive,0.426
